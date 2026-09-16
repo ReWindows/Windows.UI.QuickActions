@@ -1,0 +1,20 @@
+{
+  "schema": 1,
+  "target": "Windows.UI.QuickActions.dll",
+  "latest": "1973167650-AC9E6245F50A4CF857F159429404017B-1",
+  "builds": [
+    {
+      "key": "1973167650-AC9E6245F50A4CF857F159429404017B-1",
+      "timestamp": "1973167650",
+      "pdb_guid": "AC9E6245F50A4CF857F159429404017B",
+      "pdb_age": 1,
+      "machine": "0x8664",
+      "ir": "builds/1973167650-AC9E6245F50A4CF857F159429404017B-1/ir.json.gz",
+      "previous": null,
+      "diff_json": null,
+      "diff_markdown": null,
+      "summary": null
+    }
+  ],
+  "compression": "gzip"
+}
